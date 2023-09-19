@@ -23,6 +23,10 @@ clang++ -std=c++20 -fmodule-file=iostream.pcm -o helloworld helloworld.cpp
 
 
 https://www.reddit.com/r/cpp/comments/b3115b/beautiful_c_codebases/
+
 https://stackoverflow.com/questions/4324169/good-open-source-code-for-c
+
 https://news.ycombinator.com/item?id=24901244
+
 https://news.ycombinator.com/item?id=18037613
+
