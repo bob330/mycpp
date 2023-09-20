@@ -30,3 +30,6 @@ https://news.ycombinator.com/item?id=24901244
 
 https://news.ycombinator.com/item?id=18037613
 
+https://abseil.io/
+
+
